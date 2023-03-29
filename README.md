@@ -1,6 +1,5 @@
 ### Hi there 👋
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=shine10076&show_icons=true&theme=radical"/>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine10076&theme=radical&layout=compact"  />
 
 ![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
 
