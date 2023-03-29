@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=shine10076&show_icons=true&theme=radical"/>
 
-![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)
+![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **shine10076/shine10076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
