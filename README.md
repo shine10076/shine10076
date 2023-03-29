@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shine10076&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine10076&theme=dark&layout=compact"  />
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=shine10076&show_icons=true&theme=radical"/>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shine10076&theme=radical&layout=compact"  />
 
 <!--
 **shine10076/shine10076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
