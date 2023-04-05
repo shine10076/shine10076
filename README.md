@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Java
 - 🤔 I’m currently learning kubernetes
-- 📫 How to reach me: 10076qy@gmail.com
+- 📫 How to reach me:  10076qy@gmail.com
 ### Languages and Tools
 
 <p>
